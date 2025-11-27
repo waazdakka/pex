@@ -33,11 +33,11 @@ DB_HOST=localhost
 DB_NAME=starlord
 DB_USER=starlord
 DB_PASS=votre_mot_de_passe
-SODIUM_KEY=kElJB2SwmRls4oU0BxtiJl4e7MlDfAxqLxKWuBf9Cto=
-MAIL_FROM=starlord@piedallu.me
-MAIL_SMTP_HOST=smtp.piedallu.me
+SODIUM_KEY=xxxxxxxxxxxxxxxxx
+   MAIL_FROM=starlord@sender.com
+MAIL_SMTP_HOST=smtp.sender.com
 MAIL_SMTP_USER=raphael
-MAIL_SMTP_PASS=votre_mot_de_passe_smtp
+MAIL_SMTP_PASS=your_smtp_password
 MAIL_SMTP_PORT=587
 ```
 
